@@ -16,7 +16,7 @@ pip install chatbotAI
 
 install from github:
 ```sh
-git clone 
+git clone https://github.com/ULtimaTeOsD/Chatbot
 cd Chatbot
 python setup.py install
 ```
@@ -258,6 +258,7 @@ you can have any number of key value pair and all key value pair will override d
     {% response %}response string{% endresponse %}
 {% endblock %}
 ```
+
 
 
 
