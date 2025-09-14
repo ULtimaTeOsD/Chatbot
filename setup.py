@@ -26,11 +26,10 @@ package_dir = {
         'chatbot.chat_gui': 'chatbot/chat_gui'
     }
 setup(
-    name='chatbotAI',
+    name='Chatbot',
     version=version['__version__'],
-    author="Ahmad Faizal B H",
-    author_email="ahmadfaizalbh726@gmail.com",
-    url="https://github.com/ahmadfaizalbh/Chatbot",
+    author="dwijcoding@gmail.com",
+    url="https://github.com/ULtimaTeOsD/Chatbot",
     description="A chatbot AI engine is a chatbot builder platform that provides both bot intelligence and"
                 " chat handler with minimal codding",
     long_description=long_description,
