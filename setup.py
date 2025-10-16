@@ -21,12 +21,12 @@ for language in LANGUAGE_SUPPORT:
     ])
 package_dir = {
         'chatbot': 'chatbot',
-        'chatbot.spellcheck': 'chatbot/spellcheck',
+        'chatbot.spellchek': 'chatbot/spellcheck',
         'chatbot.substitution': 'chatbot/substitution',
         'chatbot.chat_gui': 'chatbot/chat_gui'
     }
 setup(
-    name='Chatbot',
+    name='ChatBot',
     version=version['__version__'],
     author="dwijcoding@gmail.com",
     url="https://github.com/ULtimaTeOsD/Chatbot",
